@@ -1,2 +1,4 @@
-# SL
-The paper has been accepted to ICML.
+# Socialized Learning: Making Each Other Better Through Multi-Agent Collaboration
+The code repository for "Socialized Learning: Making Each Other Better Through Multi-Agent Collaboration" (the paper has been accepted by ICML) in PyTorch.
+
+
